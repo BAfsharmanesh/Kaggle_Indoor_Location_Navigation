@@ -22,8 +22,8 @@ def init_config(seed=42):
 
 def init_neptune():
     neptune.init(
-        project_qualified_name=,
-        api_token=,
+        project_qualified_name=bahram.afsharmanesh,
+        api_token=eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiJmMThiNzJlZi1mNzQ2LTQ3ZTYtOGE3Zi01ZTlkNDBmODU5MmUifQ==,
     )
 
     neptune.create_experiment(
