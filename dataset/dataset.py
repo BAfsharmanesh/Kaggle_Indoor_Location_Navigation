@@ -3,7 +3,7 @@ from icecream import ic
 from pytorch_lightning import LightningDataModule
 from torch.utils.data import Dataset, DataLoader
 from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.model_selection import StratifiedGroupKFold, StratifiedKFold
+from sklearn.model_selection import StratifiedKFold #,StratifiedGroupKFold
 from config import Config
 from utils.utils import time_function
 import numpy as np
