@@ -10,7 +10,7 @@ class Config():
     val_batch_size = 256
     num_workers = 16
     device = 'gpu'
-    neptune = False
+    neptune = True
     lr = 5e-3
 
 
