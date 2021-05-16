@@ -1,1 +1,1 @@
-# Kaggle_Indoor_Loc
+# Kaggle_Indoor_Location_Navigation
