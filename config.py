@@ -1,6 +1,6 @@
 class Config():
-    DATA_DIR = 'data'
-    SAVE_DIR = 'save'
+    DATA_DIR = '../input/indoorunifiedwifids'
+    SAVE_DIR = './save'
     
     seed = 42
     epochs = 300
